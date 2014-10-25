@@ -1,0 +1,8 @@
+{
+  "name": "slack-trello",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-trello-slack": "^0.3.3"
+  }
+}
