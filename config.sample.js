@@ -1,5 +1,6 @@
 var config = {
 	interval: 30,
+	multiroom: false,
 	trello: {
 		key: "trello-key-here",
 		token: "trello-token-here",
