@@ -5,7 +5,7 @@ var trello = [
 	'KigpoKUl/innovativeproject-whereisboss',
 	'QOFCsUyp/innovativeproject-lighci',
 	'A3a9CnxO/innovativeproject-lostsignal',
-	'tKl2ZmdZ/innovativeproject-annonsurvey',
+	'tKl2ZmdZ/innovativeproject-anonsurvey',
 	'Hozg7cAV/innovativeproject-wakerapp',
 	'GDpKBBIc/innovativeproject-mempress'
 ];
